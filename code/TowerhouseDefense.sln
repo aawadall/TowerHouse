@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerhouseDefense", "TowerhouseDefense.csproj", "{5E79E679-50C8-45D8-B057-E287E023AF84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerhouseDefenseTests", "..\TowerhouseDefenseTests\TowerhouseDefenseTests.csproj", "{A81955B8-D8CE-4598-81DE-A723311A93AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E79E679-50C8-45D8-B057-E287E023AF84}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{5E79E679-50C8-45D8-B057-E287E023AF84}.Debug|x86.ActiveCfg = Debug|x86
+		{5E79E679-50C8-45D8-B057-E287E023AF84}.Debug|x86.Build.0 = Debug|x86
+		{5E79E679-50C8-45D8-B057-E287E023AF84}.Release|Any CPU.ActiveCfg = Release|x86
+		{5E79E679-50C8-45D8-B057-E287E023AF84}.Release|x86.ActiveCfg = Release|x86
+		{5E79E679-50C8-45D8-B057-E287E023AF84}.Release|x86.Build.0 = Release|x86
+		{A81955B8-D8CE-4598-81DE-A723311A93AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81955B8-D8CE-4598-81DE-A723311A93AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81955B8-D8CE-4598-81DE-A723311A93AE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A81955B8-D8CE-4598-81DE-A723311A93AE}.Debug|x86.Build.0 = Debug|Any CPU
+		{A81955B8-D8CE-4598-81DE-A723311A93AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81955B8-D8CE-4598-81DE-A723311A93AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A81955B8-D8CE-4598-81DE-A723311A93AE}.Release|x86.ActiveCfg = Release|Any CPU
+		{A81955B8-D8CE-4598-81DE-A723311A93AE}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

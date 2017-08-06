@@ -1,6 +1,6 @@
 namespace TreehouseDefense
 {
-  class TreehouseDefenseException : System.Exception
+  public class TreehouseDefenseException : System.Exception
   {
     public TreehouseDefenseException()
     {
@@ -10,7 +10,7 @@ namespace TreehouseDefense
     }
   }
   
-  class OutOfBoundsException : TreehouseDefenseException 
+  public class OutOfBoundsException : TreehouseDefenseException 
   {
     public OutOfBoundsException(string message) : base(message)
     {

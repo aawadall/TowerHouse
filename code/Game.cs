@@ -43,6 +43,8 @@ namespace TreehouseDefense
             bool PlayerWon = level.Play();
             
             Console.WriteLine("Player "+ (PlayerWon?"Won!":"Lost!"));
+            Console.ReadLine();
+
           }
           catch(OutOfBoundsException ex)
           {
